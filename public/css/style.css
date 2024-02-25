@@ -14,7 +14,7 @@ body {
   box-shadow: 0 2px 5px rgba(0,0,0,.10);
 }
 
-.navbar-brand , .nav-link, .my-form, .login-form, main {
+.navbar-brand , .nav-link, .my-form, .login-form, main, footer {
   font-family: Raleway, sans-serif;
 }
 
